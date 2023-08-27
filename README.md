@@ -12,9 +12,8 @@ Welcome to the Text Manipulation Web App! This application allows users to easil
   
 ## Preview
 
-![App Screenshot](![image](https://github.com/vedantgour45/my-text-converter/assets/113295244/515810fa-3761-4a91-94d8-891924866e1e))
-
-![App Screenshot](![image](![image](https://github.com/vedantgour45/my-text-converter/assets/113295244/42322724-d837-4fd3-bc76-9b55d2a78788))
+![image](https://github.com/vedantgour45/my-text-converter/assets/113295244/96b05188-698f-4257-9c9d-122a9a9353de)
+![image](https://github.com/vedantgour45/my-text-converter/assets/113295244/4e533d9e-e93f-4629-aa46-9c54688f371a)
 
 ## Technologies Used
 
