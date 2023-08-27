@@ -1,3 +1,30 @@
+# My Text Converter App (React)
+
+Welcome to the Text Manipulation Web App! This application allows users to easily manipulate and analyze text, providing features like converting text to different cases, copying to clipboard, and more.
+
+## Features
+
+- Convert text to uppercase, lowercase, title case, and toggle case.
+- User-friendly interface with light and dark mode options.
+- Real-time alerts for successful actions.
+- Integrated speech synthesis for text-to-speech functionality.
+- Live analysis of word and character counts.
+  
+## Preview
+
+![App Screenshot](![image](https://github.com/vedantgour45/my-text-converter/assets/113295244/515810fa-3761-4a91-94d8-891924866e1e))
+
+![App Screenshot](![image](![image](https://github.com/vedantgour45/my-text-converter/assets/113295244/42322724-d837-4fd3-bc76-9b55d2a78788))
+
+## Technologies Used
+
+- React
+- Bootstrap
+- Speech Synthesis API
+- HTML
+- CSS
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
